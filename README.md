@@ -22,7 +22,7 @@ The Video Player is a component working as a Physical Network Function (PNF) whi
 There is a control interface based on Advanced Message Queuing Protocol (AMQP) for consuming control/manage messages from the video-streamer.
 There is also an interface in charge to consuming video from the network datapath.
 
-![VS interfaces](https://github.com/Selfnet-5G/video-player/blob/master/resources/vp_1.png?raw=true)
+![VS interfaces](https://github.com/Selfnet-5G/video-player/blob/master/resources/vs_1.png?raw=true)
 
 
 # Installation 
